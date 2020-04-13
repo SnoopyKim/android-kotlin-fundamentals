@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
+import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -17,6 +18,9 @@ class MainActivity : AppCompatActivity() {
 
         val countUpButton: Button = findViewById(R.id.count_up_button)
         countUpButton.setOnClickListener { countUp() }
+
+        val restButton: Button = findViewById(R.id.reset_button)
+        restButton.setOnClickListener { resetDice() }
     }
 
     private fun rollDice() {
@@ -37,6 +41,12 @@ class MainActivity : AppCompatActivity() {
         } else {
             resultText.text = (currentText.toInt()+1).toString()
         }
+    }
+
+    private fun resetDice() {
+        // Kotlin can call ID directly for instance
+        // result_text == findViewById(R.id.result_text)
+        result_text.text = "0"
     }
 
 }
