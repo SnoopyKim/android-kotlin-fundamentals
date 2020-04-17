@@ -17,4 +17,5 @@
         \n- 찬호랑 같이하는 프로젝트 (찬호는 웹)
         \n- 코틀린 익숙해지는대로 바로 시작 (뉴식당과 동시)
         \n- 뉴식당은 Firebase 기반인거에 반해 얘는 몽고DB</string>
+    <string name="dialog_info">Dialog info</string>
 </resources>
