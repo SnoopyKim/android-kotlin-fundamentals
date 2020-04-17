@@ -18,4 +18,6 @@
         \n- 코틀린 익숙해지는대로 바로 시작 (뉴식당과 동시)
         \n- 뉴식당은 Firebase 기반인거에 반해 얘는 몽고DB</string>
     <string name="dialog_info">Dialog info</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
