@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">SnoopyKim</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio"><b>스누피 키우기</b>
+        \n\n<b>1. 뉴식당 리팩토링</b>
+        \n- 기획 다시 (주로 기능 덜기)
+        \n- 자바는 모르겠고 코틀린으로 다시
+        \n- 코틀린 기본 강좌 (디모)
+        \nhttps://www.youtube.com/playlist?list=PLQdnHjXZyYadiw5aV3p6DwUdXV2bZuhlN
+        \n- 안드로이드용 코틀린 실습
+        \nhttps://codelabs.developers.google.com/android-kotlin-fundamentals/
+        \n- 코틀린으로 하고 여유있으면 RN으로 다시
+        \n\n<b>2. Node.js 강의 (패스트캠퍼스)</b>
+        \n- cudy@kakao.com///qlqjs9515
+        \n\n<b>3. 롤 매칭 어플리케이션</b>
+        \n- 찬호랑 같이하는 프로젝트 (찬호는 웹)
+        \n- 코틀린 익숙해지는대로 바로 시작 (뉴식당과 동시)
+        \n- 뉴식당은 Firebase 기반인거에 반해 얘는 몽고DB</string>
+</resources>
