@@ -7,4 +7,10 @@ This is projects for study android-kotlin course in https://codelabs.developers.
 
 ### 01.3: Image resources and compatibility -> DiceRoller
 
-### 01.4: Learn to help yourself -> BasicTemplate
+### 01.4: Learn to help yourself -> BasicTemplate, sunflower-master
+
+### 02.1: Linear layout using the Layout Editor -> AboutMe
+
+### 02.2: Add user interactivity -> AboutMe
+
+### 02.3: Constraint layout using the Layout Editor -> ColorMyViews
