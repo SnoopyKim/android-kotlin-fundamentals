@@ -20,7 +20,8 @@ class TitleFragment : Fragment() {
 
         binding.apply {
             playButton.setOnClickListener { view: View ->
-                view.findNavController().navigate(R.id.action_titleFragment_to_gameFragment)
+                view.findNavController()
+                        .navigate(TitleFragmentDirections.actionTitleFragmentToGameFragment())
             }
             rulesButton.setOnClickListener { view: View ->
                 view.findNavController().navigate(R.id.action_titleFragment_to_rulesFragment)
